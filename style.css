@@ -3,8 +3,31 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 100px;
+    margin: 0;    
 }
 h1{
     font-size: 50px;
+}
+.half{
+    width: 50%;
+    text-align: justify;
+    padding: 50px;
+}
+section{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;  
+    background-image: linear-gradient(salmon, orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color:white;
+}
+p{
+    padding-bottom: 20px;
+}
+.top-banner{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
 }
