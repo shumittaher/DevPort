@@ -31,3 +31,15 @@ p{
     background-image: url(/images/top-banner.png);
     background-repeat: no-repeat;
 }
+.mid-section{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h3{
+    color: orange;
+}
+.bottom-section{
+    display:table;
+    margin: 100px;
+}
